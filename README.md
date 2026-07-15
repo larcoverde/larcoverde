@@ -1,9 +1,13 @@
 ## Hi there 👋
 
+I code mostly in C and now I'm learning Python.
+
+Interested in systems programming, open-source software, and building useful tools.
 <!--
 **larcoverde/larcoverde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+## Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
