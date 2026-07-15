@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me
 
 I code mostly in C and now I'm learning Python.
 
