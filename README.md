@@ -4,4 +4,4 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=larcoverde&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>I code mostly in C, Python and Javascript<br/> I like to build usefull (or not) tools</p>
+<p>I code mostly in C, Python and Javascript<br/> I like to build useful (or not) tools :)</p>
